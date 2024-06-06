@@ -1,0 +1,391 @@
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\booking.csproj.AssemblyReference.cache
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\View\Guest1\AccomodationOverview.g.cs
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\View\Guest1\ImagesOverview.g.cs
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\View\Guest1\NumberOfGuests.g.cs
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\View\Guest1\ReserveAccommodation.g.cs
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\View\Guest2\BookTourOverview.g.cs
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\View\Guest2\Guest2Overview.g.cs
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\View\Guest2\MoreDetailsOverview.g.cs
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\View\Guide\AddTourWindow.g.cs
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\View\Guide\GuideWindow.g.cs
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\View\Owner\AddAccommodationImageWindow.g.cs
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\View\Owner\AddAccommodationWindow.g.cs
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\View\Owner\OwnerWindow.g.cs
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\View\SignInForm.g.cs
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\booking_MarkupCompile.cache
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\booking_MarkupCompile.lref
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\bin\Debug\net6.0-windows\booking.exe
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\bin\Debug\net6.0-windows\booking.deps.json
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\bin\Debug\net6.0-windows\booking.runtimeconfig.json
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\bin\Debug\net6.0-windows\booking.dll
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\bin\Debug\net6.0-windows\booking.pdb
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\View\Guest1\AccomodationOverview.baml
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\View\Guest1\ImagesOverview.baml
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\View\Guest1\NumberOfGuests.baml
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\View\Guest1\ReserveAccommodation.baml
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\View\Guest2\BookTourOverview.baml
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\View\Guest2\Guest2Overview.baml
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\View\Guest2\MoreDetailsOverview.baml
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\View\Guide\AddTourWindow.baml
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\View\Guide\GuideWindow.baml
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\View\Owner\AddAccommodationImageWindow.baml
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\View\Owner\AddAccommodationWindow.baml
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\View\Owner\OwnerWindow.baml
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\View\SignInForm.baml
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\booking.g.resources
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\booking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\booking.AssemblyInfoInputs.cache
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\booking.AssemblyInfo.cs
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\booking.csproj.CoreCompileInputs.cache
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\booking.dll
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\refint\booking.dll
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\booking.pdb
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\booking.genruntimeconfig.cache
+C:\Users\Nevena\Desktop\Alt-F4-feature-ReserveAccommodation\booking\booking\obj\Debug\net6.0-windows\ref\booking.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\booking.csproj.AssemblyReference.cache
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\Guest1View.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\ImagesOverview.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\PostponeReservation.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\ReserveAccommodation.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\AddTourWindow.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\GuideWindow.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\LiveTrackingWindow.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\AddAccommodationWindow.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\OwnerWindow.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\RateGuestWindow.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\SignInForm.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\App.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\booking_Content.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\booking_MarkupCompile.cache
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\booking_MarkupCompile.lref
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\booking.exe
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\booking.deps.json
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\booking.runtimeconfig.json
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\booking.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\booking.pdb
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\Syncfusion.Licensing.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\Syncfusion.SfInput.WPF.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\Syncfusion.Shared.WPF.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\Guest1View.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\ImagesOverview.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\PostponeReservation.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\ReserveAccommodation.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\AddTourWindow.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\GuideWindow.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\LiveTrackingWindow.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\AddAccommodationWindow.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\OwnerWindow.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\RateGuestWindow.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\SignInForm.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\booking.g.resources
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\booking.GeneratedMSBuildEditorConfig.editorconfig
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\booking.AssemblyInfoInputs.cache
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\booking.AssemblyInfo.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\booking.csproj.CoreCompileInputs.cache
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\booking.csproj.CopyComplete
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\booking.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\refint\booking.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\booking.pdb
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\booking.genruntimeconfig.cache
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\ref\booking.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\LeaveCommentWindow.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\RatingViewWindow.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\ReservationChangeWindow.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\LeaveCommentWindow.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\RatingViewWindow.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\ReservationChangeWindow.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\MainGuest2View.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\MyToursView.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\RateGuideView.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\FinishedTours.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\MainGuest2View.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\MyToursView.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\RateGuideView.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\FinishedTours.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\Microsoft.Expression.Interactions.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\System.Windows.Interactivity.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\SelectedCommentWindow.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\ShowReviewsWindow.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\ShowStatisticsWindow.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\TourCancellation.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\SelectedCommentWindow.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\ShowReviewsWindow.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\ShowStatisticsWindow.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\TourCancellation.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\booking.csproj.ResolveComReference.cache
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\JetBrains.Annotations.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\MvvmNavigation.Abstractions.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\MvvmNavigation.Core.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\MvvmNavigation.Internal.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\MvvmNavigation.Wpf.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\Overview.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\Overview.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\AnytimeAnywhereView.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\AnytimeAnywhereView.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\GuideMainWindow.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\ProfilePage.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\GuideMainWindow.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\ProfilePage.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\AccommodationStats.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\AccommodationStats2.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\LeaveCommentRenovationWindow.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\MainWindow.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\RenovationView.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\ScheduleRenovation.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\App.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\Themes\Generic.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\AccommodationStats.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\AccommodationStats2.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\LeaveCommentRenovationWindow.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\MainWindow.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\RenovationView.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\ScheduleRenovation.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\SuccessfullyRatedView.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\SuccessfullyRatedView.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\ReviewView.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\ReviewView.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\BookTourView.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\HomeView.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\MoreDetailsView.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\MyRequestsView.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\SearchTourView.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\SelectDateForTourRequestWindow.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\TourRequestAcceptancePage.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\FluentScheduler.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\Utilities\Themes\Guest2Themes.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\BookTourView.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\HomeView.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\MoreDetailsView.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\MyRequestsView.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\SearchTourView.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\SelectDateForTourRequestWindow.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\TourRequestAcceptancePage.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\LiveCharts.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\StatisticsView.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\ParametarOfStatisticsForTourCreationWindow.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\TourRequestsStatisticsPage.g.cs
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\StatisticsView.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\ParametarOfStatisticsForTourCreationWindow.baml
+G:\3. godina\2. semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\TourRequestsStatisticsPage.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\booking.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\booking.exe
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\booking.deps.json
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\booking.runtimeconfig.json
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\Microsoft.Expression.Interactions.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\System.Windows.Interactivity.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\FluentScheduler.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\JetBrains.Annotations.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\LiveCharts.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\MvvmNavigation.Abstractions.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\MvvmNavigation.Core.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\MvvmNavigation.Internal.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\MvvmNavigation.Wpf.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\Syncfusion.Licensing.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\Syncfusion.SfInput.WPF.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\Syncfusion.Shared.WPF.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\booking.csproj.AssemblyReference.cache
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\booking.csproj.ResolveComReference.cache
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\AnytimeAnywhereView.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\CreateForumView.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\ForumCommentsView.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\Guest1View.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\ImagesOverview.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\Overview.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\PostponeReservation.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\ReserveAccommodation.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\ReserveAccommodationAAView.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\ReviewView.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\SuccessfullyRatedView.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\BookTourView.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\HomeView.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\MainGuest2View.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\MoreDetailsView.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\MyRequestsView.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\MyToursView.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\RateGuideView.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\SearchTourView.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\StatisticsView.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\AddTourWindow.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\FinishedTours.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\GuideMainWindow.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\GuideWindow.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\LiveTrackingWindow.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\ParametarOfStatisticsForTourCreationWindow.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\ProfilePage.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\SelectDateForTourRequestWindow.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\SelectedCommentWindow.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\ShowReviewsWindow.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\ShowStatisticsWindow.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\TourCancellation.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\TourRequestAcceptancePage.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\TourRequestsStatisticsPage.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\AccommodationStats.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\AccommodationStats2.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\AddAccommodationWindow.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\LeaveCommentRenovationWindow.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\LeaveCommentWindow.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\MainWindow.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\OwnerWindow.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\RateGuestWindow.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\RatingViewWindow.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\RenovationView.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\ReservationChangeWindow.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\ScheduleRenovation.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\SignInForm.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\App.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\booking_Content.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\booking_MarkupCompile.cache
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\booking_MarkupCompile.lref
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\App.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\Themes\Generic.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\Utilities\Themes\Guest2Themes.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\AnytimeAnywhereView.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\CreateForumView.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\ForumCommentsView.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\Guest1View.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\ImagesOverview.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\Overview.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\PostponeReservation.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\ReserveAccommodation.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\ReserveAccommodationAAView.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\ReviewView.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\SuccessfullyRatedView.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\BookTourView.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\HomeView.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\MainGuest2View.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\MoreDetailsView.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\MyRequestsView.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\MyToursView.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\RateGuideView.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\SearchTourView.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\StatisticsView.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\AddTourWindow.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\FinishedTours.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\GuideMainWindow.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\GuideWindow.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\LiveTrackingWindow.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\ParametarOfStatisticsForTourCreationWindow.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\ProfilePage.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\SelectDateForTourRequestWindow.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\SelectedCommentWindow.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\ShowReviewsWindow.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\ShowStatisticsWindow.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\TourCancellation.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\TourRequestAcceptancePage.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\TourRequestsStatisticsPage.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\AccommodationStats.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\AccommodationStats2.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\AddAccommodationWindow.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\LeaveCommentRenovationWindow.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\LeaveCommentWindow.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\MainWindow.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\OwnerWindow.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\RateGuestWindow.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\RatingViewWindow.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\RenovationView.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\ReservationChangeWindow.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\ScheduleRenovation.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\SignInForm.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\booking.g.resources
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\booking.GeneratedMSBuildEditorConfig.editorconfig
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\booking.AssemblyInfoInputs.cache
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\booking.AssemblyInfo.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\booking.csproj.CoreCompileInputs.cache
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\booking.csproj.CopyComplete
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\booking.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\refint\booking.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\booking.pdb
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\booking.genruntimeconfig.cache
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\booking.pdb
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\ref\booking.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\itextsharp.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\Guest1ReportView.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\Guest1ReportView.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\TutorialView.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest1\TutorialView.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\en-US\booking.resources.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\PdfSharp.Charting.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\PdfSharp.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\de\PdfSharp.Charting.resources.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\de\PdfSharp.resources.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\AddComplexRequestView.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\FinishedDemoWindow.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\ReportWindow.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\StartDemoWindow.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\ForumSelect.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\ForumView.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\TutorialOwner.g.cs
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\Utilities\Themes\Guest2DarkTheme.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guest2\AddComplexRequestView.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\FinishedDemoWindow.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\ReportWindow.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Guide\StartDemoWindow.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\ForumSelect.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\ForumView.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\WPF\Views\Owner\TutorialOwner.baml
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\booking.Properties.Resources.resources
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\booking.Properties.Resources.en-US.resources
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\booking.csproj.GenerateResource.cache
+G:\3.godina\2.semestar\SIMS\Alt+F4\booking\booking\obj\Debug\net6.0-windows\en-US\booking.resources.dll
+E:\projects\Booking\booking\obj\Debug\net6.0-windows\booking.dll
+E:\projects\Booking\booking\obj\Debug\net6.0-windows\refint\booking.dll
+E:\projects\Booking\booking\obj\Debug\net6.0-windows\booking.pdb

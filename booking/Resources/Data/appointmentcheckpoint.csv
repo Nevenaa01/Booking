@@ -1,0 +1,338 @@
+1|Knez Mihajlova|True|False|1|1
+2|Kalemegdan|True|False|1|2
+3|Zoo vrt|True|False|1|3
+4|Dunav|False|True|1|4
+5|Milutin|True|False|2|1
+6|Kej|True|False|2|2
+7|Obala Ibra|True|False|2|3
+8|Muzej|True|False|2|4
+9|Trg Svetog Save|True|False|2|5
+10|Centar|True|False|3|1
+11|Kej|True|False|3|2
+12|Obala Ibra|True|False|3|3
+13|Muzej|False|True|3|4
+14|Trg Svetog Save|False|True|3|5
+15|Knez Mihajlova|True|False|4|1
+16|Kalemegdan|True|False|4|2
+17|Zoo vrt|True|False|4|3
+18|Dunav|False|True|4|4
+19|Centar|True|False|5|1
+20|Kej|True|False|5|2
+21|Obala Ibra|True|False|5|3
+22|Muzej|True|False|5|4
+23|Trg Svetog Save|True|False|5|5
+24|Knez Mihajlova|True|False|6|1
+25|Kalemegdan|True|False|6|2
+26|Zoo vrt|True|False|6|3
+27|Dunav|True|False|6|4
+28|Knez Mihajlova|True|False|7|1
+29|Kalemegdan|True|False|7|2
+30|Zoo vrt|False|True|7|3
+31|Dunav|False|True|7|4
+32|Centar|True|False|8|1
+33|Kej|True|False|8|2
+34|Obala Ibra|True|False|8|3
+35|Muzej|True|False|8|4
+36|Trg Svetog Save|True|False|8|5
+37|Knez Mihajlova|True|False|9|1
+38|Kalemegdan|True|False|9|2
+39|Zoo vrt|True|False|9|3
+40|Dunav|True|False|9|4
+41|Knez Mihajlova|True|False|10|1
+42|Kalemegdan|True|False|10|2
+43|Zoo vrt|True|False|10|3
+44|Dunav|True|False|10|4
+45|Centar|True|False|11|1
+46|Kej|True|False|11|2
+47|Obala Ibra|True|False|11|3
+48|Muzej|False|True|11|4
+49|Trg Svetog Save|False|True|11|5
+50|Knez Mihajlova|True|False|12|1
+51|Kalemegdan|True|False|12|2
+52|Zoo vrt|True|False|12|3
+53|Dunav|True|False|12|4
+54|Centar|True|False|13|1
+55|Kej|True|False|13|2
+56|Obala Ibra|False|True|13|3
+57|Trg Svetog Save|False|True|13|4
+58|Muzej|False|True|13|5
+59|Centar|True|False|14|1
+60|Kej|True|False|14|2
+61|Obala Ibra|True|False|14|3
+62|Trg Svetog Save|True|False|14|4
+63|Muzej|True|False|14|5
+64|Centar|True|False|15|1
+65|Kej|True|False|15|2
+66|Obala Ibra|True|False|15|3
+67|Trg Svetog Save|False|True|15|4
+68|Muzej|False|True|15|5
+69|Centar|True|False|16|1
+70|Kej|True|False|16|2
+71|Obala Ibra|True|False|16|3
+72|Trg Svetog Save|True|False|16|4
+73|Muzej|True|False|16|5
+74|Centar|True|False|17|1
+75|Kej|True|False|17|2
+76|Obala Ibra|False|True|17|3
+77|Trg Svetog Save|False|True|17|4
+78|Muzej|False|True|17|5
+79|Centar|True|False|18|1
+80|Kej|True|False|18|2
+81|Obala Ibra|True|False|18|3
+82|Trg Svetog Save|False|True|18|4
+83|Muzej|False|True|18|5
+84|Centar|True|False|19|1
+85|Kej|True|False|19|2
+86|Obala Ibra|True|False|19|3
+87|Trg Svetog Save|False|True|19|4
+88|Muzej|False|True|19|5
+89|Centar|True|False|20|1
+90|Kej|True|False|20|2
+91|Obala Ibra|False|True|20|3
+92|Trg Svetog Save|False|True|20|4
+93|Muzej|False|True|20|5
+94|Centar|True|False|21|1
+95|Kej|True|False|21|2
+96|Obala Ibra|True|False|21|3
+97|Trg Svetog Save|False|True|21|4
+98|Muzej|False|True|21|5
+99|Centar|True|False|22|1
+100|Kej|True|False|22|2
+101|Obala Ibra|True|False|22|3
+102|Trg Svetog Save|True|False|22|4
+103|Muzej|True|False|22|5
+104|Centar|False|True|23|1
+105|Kej|False|True|23|2
+106|Obala Ibra|False|True|23|3
+107|Trg Svetog Save|False|True|23|4
+108|Muzej|False|True|23|5
+109|Centar|True|False|24|1
+110|Kej|True|False|24|2
+111|Obala Ibra|False|True|24|3
+112|Trg Svetog Save|False|True|24|4
+113|Muzej|False|True|24|5
+114|Centar|True|False|25|1
+115|Kej|True|False|25|2
+116|Obala Ibra|False|True|25|3
+117|Trg Svetog Save|False|True|25|4
+118|Muzej|False|True|25|5
+119|Centar|True|False|26|1
+120|Kej|True|False|26|2
+121|Obala Ibra|True|False|26|3
+122|Trg Svetog Save|True|False|26|4
+123|Muzej|True|False|26|5
+124|Centar|True|False|27|1
+125|Kej|True|False|27|2
+126|Obala Ibra|True|False|27|3
+127|Trg Svetog Save|True|False|27|4
+128|Muzej|True|False|27|5
+129|Centar|True|False|28|1
+130|Kej|True|False|28|2
+131|Obala Ibra|False|True|28|3
+132|Trg Svetog Save|False|True|28|4
+133|Muzej|False|True|28|5
+134|Centar|True|False|29|1
+135|Kej|True|False|29|2
+136|Obala Ibra|True|False|29|3
+137|Trg Svetog Save|True|False|29|4
+138|Muzej|True|False|29|5
+139|Centar|True|False|30|1
+140|Kej|True|False|30|2
+141|Obala Ibra|True|False|30|3
+142|Trg Svetog Save|True|False|30|4
+143|Muzej|True|False|30|5
+144|Muzej|True|False|31|5
+145|Neki point|True|False|31|1
+146|Jos meki|True|False|31|2
+147|Muzej|True|False|32|5
+148|Neki point|True|False|32|1
+149|Jos meki|True|False|32|2
+160|Muzej|False|True|31|1
+161|Neki point|False|True|31|2
+162|Jos meki|False|True|31|3
+163|Krajnji point|False|True|31|4
+164|Muzej|True|False|32|1
+165|Neki point|True|False|32|2
+166|Jos meki|False|True|32|3
+167|Krajnji point|False|True|32|4
+168|Muzej|True|False|33|1
+169|Neki point|True|False|33|2
+170|Jos meki|False|True|33|3
+171|Krajnji point|False|True|33|4
+172|Muzej|True|False|34|1
+173|Neki point|True|False|34|2
+174|Jos meki|True|False|34|3
+175|Krajnji point|True|False|34|4
+176|Muzej|True|False|35|1
+177|Neki point|True|False|35|2
+178|Jos meki|True|False|35|3
+179|Krajnji point|True|False|35|4
+180|Muzej|True|False|36|1
+181|Neki point|True|False|36|2
+182|Jos meki|False|True|36|3
+183|Krajnji point|False|True|36|4
+184|Muzej|True|False|37|1
+185|Neki point|True|False|37|2
+186|Jos meki|True|False|37|3
+187|Krajnji point|True|False|37|4
+188|Muzej|True|False|38|1
+189|Neki point|True|False|38|2
+190|Jos meki|True|False|38|3
+191|Krajnji point|False|True|38|4
+192|Muzej|True|False|39|1
+193|Neki point|True|False|39|2
+194|Jos meki|False|True|39|3
+195|Krajnji point|False|True|39|4
+196|Muzej|True|False|40|1
+197|Neki point|True|False|40|2
+198|Jos meki|True|False|40|3
+199|Krajnji point|False|True|40|4
+200|Muzej|True|False|41|1
+201|Neki point|False|True|41|2
+202|Jos meki|False|True|41|3
+203|Krajnji point|False|True|41|4
+204|Muzej|True|False|42|1
+205|Neki point|True|False|42|2
+206|Jos meki|True|False|42|3
+207|Krajnji point|False|True|42|4
+208|Muzej|True|False|43|1
+209|Neki point|False|True|43|2
+210|Jos meki|False|True|43|3
+211|Krajnji point|False|True|43|4
+212|Muzej|True|False|44|1
+213|Neki point|True|False|44|2
+214|Jos meki|True|False|44|3
+215|Krajnji point|False|True|44|4
+216|Centar|True|False|45|1
+217|Kej|False|True|45|2
+218|Obala Ibra|False|True|45|3
+219|Trg Svetog Save|False|True|45|4
+220|Muzej|False|True|45|5
+221|Centar|True|False|46|1
+222|Kej|False|True|46|2
+223|Obala Ibra|False|True|46|3
+224|Trg Svetog Save|False|True|46|4
+225|Muzej|False|True|46|5
+226|Centar|True|False|47|1
+227|Kej|False|True|47|2
+228|Obala Ibra|False|True|47|3
+229|Trg Svetog Save|False|True|47|4
+230|Muzej|False|True|47|5
+231|Centar|True|False|48|1
+232|Kej|False|True|48|2
+233|Obala Ibra|False|True|48|3
+234|Trg Svetog Save|False|True|48|4
+235|Muzej|False|True|48|5
+236|Centar|True|False|49|1
+237|Kej|False|True|49|2
+238|Obala Ibra|False|True|49|3
+239|Trg Svetog Save|False|True|49|4
+240|Muzej|False|True|49|5
+241|Centar|True|False|50|1
+242|Kej|False|True|50|2
+243|Obala Ibra|False|True|50|3
+244|Trg Svetog Save|False|True|50|4
+245|Muzej|False|True|50|5
+246|Centar|True|False|51|1
+247|Kej|True|False|51|2
+248|Obala Ibra|True|False|51|3
+249|Trg Svetog Save|True|False|51|4
+250|Muzej|True|False|51|5
+251|Centar|True|False|52|1
+252|Kej|True|False|52|2
+253|Obala Ibra|True|False|52|3
+254|Trg Svetog Save|True|False|52|4
+255|Muzej|True|False|52|5
+256|Centar|True|False|53|1
+257|Kej|True|False|53|2
+258|Obala Ibra|True|False|53|3
+259|Trg Svetog Save|True|False|53|4
+260|Muzej|True|False|53|5
+261|Centar|True|False|54|1
+262|Kej|True|False|54|2
+263|Obala Ibra|False|True|54|3
+264|Trg Svetog Save|False|True|54|4
+265|Muzej|False|True|54|5
+266|Centar|True|False|55|1
+267|Kej|True|False|55|2
+268|Obala Ibra|True|False|55|3
+269|Trg Svetog Save|True|False|55|4
+270|Muzej|True|False|55|5
+271|Centar|True|False|56|1
+272|Kej|True|False|56|2
+273|Obala Ibra|True|False|56|3
+274|Trg Svetog Save|True|False|56|4
+275|Muzej|True|False|56|5
+276|Centar|True|False|57|1
+277|Kej|True|False|57|2
+278|Obala Ibra|True|False|57|3
+279|Trg Svetog Save|False|True|57|4
+280|Muzej|False|True|57|5
+281|Centar|True|False|58|1
+282|Kej|True|False|58|2
+283|Obala Ibra|False|True|58|3
+284|Trg Svetog Save|False|True|58|4
+285|Muzej|False|True|58|5
+286|Centar|True|False|59|1
+287|Kej|True|False|59|2
+288|Obala Ibra|True|False|59|3
+289|Trg Svetog Save|False|True|59|4
+290|Muzej|False|True|59|5
+291|centar|True|False|60|1
+292|setaliste|True|False|60|2
+293|Kraljevo|True|False|61|1
+294|Mat. Banja|True|False|61|2
+295|Bogutovac|True|False|61|3
+296|Maglic|True|False|61|4
+297|Knez Mihajlova|True|False|62|1
+298|Kalemegdan|True|False|62|2
+299|Zoo vrt|True|False|62|3
+300|Dunav|True|False|62|4
+301|Knez Mihajlova|True|False|63|1
+302|Kalemegdan|True|False|63|2
+303|Zoo vrt|True|False|63|3
+304|Dunav|True|False|63|4
+305|Knez Mihajlova|True|False|64|1
+306|Kalemegdan|True|False|64|2
+307|Zoo vrt|True|False|64|3
+308|Dunav|False|True|64|4
+309|Knez Mihajlova|True|False|65|1
+310|Kalemegdan|True|False|65|2
+311|Zoo vrt|True|False|65|3
+312|Dunav|False|True|65|4
+313|Trg Slobode|True|False|66|1
+314|Most Duga|False|True|66|2
+315|Kraljevo|True|False|67|1
+316|Mat. Banja|False|True|67|2
+317|Bogutovac|False|True|67|3
+318|Maglic|False|True|67|4
+319|Trg Slobode|True|False|68|1
+320|Most Duga|True|False|68|2
+321|Kraljevo|True|False|69|1
+322|Mat. Banja|True|False|69|2
+323|Bogutovac|True|False|69|3
+324|Maglic|False|True|69|4
+325|Kraljevo|True|False|70|1
+326|Mat. Banja|True|False|70|2
+327|Bogutovac|True|False|70|3
+328|Maglic|True|False|70|4
+329|Knez Mihajlova|True|False|71|1
+330|Kalemegdan|False|True|71|2
+331|Zoo vrt|False|True|71|3
+332|Dunav|False|True|71|4
+333|Knez Mihajlova|True|False|72|1
+334|Kalemegdan|True|False|72|2
+335|Zoo vrt|True|False|72|3
+336|Dunav|True|False|72|4
+337|Knez Mihajlova|True|False|73|1
+338|Kalemegdan|False|True|73|2
+339|Zoo vrt|False|True|73|3
+340|Dunav|False|True|73|4
+341|Knez Mihajlova|True|False|74|1
+342|Kalemegdan|True|False|74|2
+343|Zoo vrt|True|False|74|3
+344|Dunav|True|False|74|4
+345|Kraljevo|True|False|75|1
+346|Mat. Banja|True|False|75|2
+347|Bogutovac|True|False|75|3
+348|Maglic|True|False|75|4
